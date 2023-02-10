@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "brand": "Volkswagen",
+    "model": "Gol",
+    "year": 2015
+  },
+  {
+    "id": 2,
+    "brand": "Volkswagen",
+    "model": "Fusca",
+    "year": 1990
+  },
+  {
+    "id": 3,
+    "brand": "Fiat",
+    "model": "Uno",
+    "year": 2005
+  },
+  {
+    "id": 4,
+    "brand": "Fiat",
+    "model": "Argo",
+    "year": 2017
+  },
+  {
+    "id": 5,
+    "brand": "Fiat",
+    "model": "Abarth",
+    "year": 2017
+  },
+  {
+    "id": 6,
+    "brand": "Fiat",
+    "model": "Chronus",
+    "year": 2017
+  },
+  {
+    "id": 7,
+    "brand": "Fiat",
+    "model": "Chronuxxxs",
+    "year": 2017
+  },
+  {
+    "id": 8,
+    "brand": "Fiat",
+    "model": "Strada",
+    "year": 2017
+  }
+]
